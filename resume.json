@@ -10,12 +10,12 @@
   },
   "avatar": {
     "src": "https://avatars.githubusercontent.com/u/15646325?v=4",
-    "hidden": false
+    "hidden": true
   },
   "profile": {
     "name": "周雨霏",
     "email": "1799637181@qq.com",
-    "mobile": "156xxxx7119",
+    "mobile": "18056354406",
     "github": "https://github.com/circlerain",
     "zhihu": "",
     "workExpYear": ""
@@ -23,8 +23,8 @@
   "educationList": [
     {
       "edu_time": [
-        "2014.09.01",
-        "2018.06.30"
+        "2021.09.01",
+        "2025.06.30"
       ],
       "school": "武汉理工大学",
       "major": "车辆工程",
@@ -33,21 +33,17 @@
   ],
   "awardList": [
     {
-      "award_info": "英语 CET6",
-      "award_time": "2023？"
+      "award_info": "校三等奖学金",
+      "award_time": "2022"
     },
     {
-      "award_info": "蚂蚁近卫军 卓越个人奖",
-      "award_time": "2018.09"
+      "award_info": "英语 CET6 566分",
+      "award_time": "2023"
     },
     {
-      "award_info": "前端练习生 可视化讲师",
+      "award_info": "参与structural improvement based on CATIA and Abaqus的发表",
       "award_time": "2020.10"
     },
-    {
-      "award_info": "前端早早聊 分享 “如何构思和开发开箱即用的可视化图表库 G2Plot”",
-      "award_time": "2021.07"
-    }
   ],
   "workExpList": [
     {
